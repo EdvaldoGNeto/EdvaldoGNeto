@@ -1,8 +1,1 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-<h1 tabindex="-1" class="heading-element" dir="auto">👋 Hi, I'm Edvaldo G. Neto</h1> 
-<img width="15%" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY2MTY4MzMsIm5iZiI6MTc3NjYxNjUzMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDE5VDE2MzUzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlNGZlN2U2NWNlODBkMzFlNjI4ODIyMjNiMmRhNDNiNzJjNzYwZjRjODhiYmFjZjk3MGRkZGIwNjU5Y2M3YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.oyC7B_O3PzGHiUXJ4e86lhoiCcI4G4zkIp6h-Z6W8KA" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=757678&amp;height=120&amp;section=footer" style="max-width: 15%;">
-</div>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" data-canonical-src="https://img.shields.io/badge/-EMail-757678?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:edvaldo.gom.neto@gmail.com" style="max-width: 100%;">
-<p align="left">
 
-I'm a computer engineering student seeking more knowledge in the field of artificial intelligence. I'm passionate about artificial intelligence and game creation.
